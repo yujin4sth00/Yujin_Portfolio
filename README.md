@@ -1,6 +1,5 @@
 # React
-Nodejs를 이용한 리액트(회사 정보 리스트)
-api를 이용한 영화랭킹 불러오는 메인(날짜로 검색)
+(회사 정보 리스트)
 ![image](https://github.com/yujin4sth00/React2/assets/115778958/58b713e1-dc1e-4150-bb47-2792523dbe17)
 ![image](https://github.com/yujin4sth00/React2/assets/115778958/1f6db592-9dc3-4277-b5f6-d60fb3e6ed93)
 ![image](https://github.com/yujin4sth00/React2/assets/115778958/6ee07090-f922-4724-a3b3-625b443e806d)
