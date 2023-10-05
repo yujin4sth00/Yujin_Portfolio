@@ -1,7 +1,15 @@
 # GameDevelopProject
-Unity를 이용한 게임제작 팀프로젝트(캡스톤)<br>
 https://drive.google.com/file/d/1PVnHQbb5PAX6zqQiLjMx8KR-e33AUqAs/view?usp=drive_link <br>
-용량이 너무 커서 업로드 불가능입니다..<br>
+💻팀 프로젝트<br>
+💻제작기간<br>
+|세부내용|기간|
+|-----------|-------|
+|게임의 전체적인 컨셉 설정 및 레퍼런스 이미지 제작|2023.03.15~2023.04.12|
+|모티브가 된 게임을 통해 각 스테이지의 진행 방법 구성, 제작할 게임 파트 분배, 게임에 사용할 에셋 정하고 공유|2023.04.13~2023.05.10|
+|담당한 게임 파트의 계획서 작성 및 공유 후 각자 담당한 씬 제작 시작|2023.05.11~2023.06.11|
+|담당한 부분들에 대한 팀원의 피드백 공유, 씬 전체적으로 수정하고 통합시키는 작업 진행|2023.06.12~2023.06.18|
+|제작한 씬 합치고 전환과 오류 여부 확인, 보고서 및 발표자료 작성&준비|2023.06.18~2023.06.19|
+<br>
 발표 자료
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/772599a8-2f75-4841-a353-5f1c13479737)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/cd6a0f87-048c-48e2-80d6-e84286593087)
@@ -18,3 +26,11 @@ https://drive.google.com/file/d/1PVnHQbb5PAX6zqQiLjMx8KR-e33AUqAs/view?usp=drive
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/ec567442-1c69-4fda-8e95-b7841cb944e7)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/beeae1e5-e964-4207-94f2-057a5657226a)
 
+
+>PlayerController(캐릭터 이동 코드)
+방향키를 누르는 동안 좌우로 이동하고 스페이스바를 눌렀을 때 점프가 가능하도록 했다. 플레이어가 걷는 속도와 점프하는 힘의 기본값을 두었고 지정한 높이보다 높아졌을 때 점프가 불가능하도록 설정했다. 플레이어가 특정 태그를 가진 오브젝트와 충돌하게 되면 함수를 호출하도록 해서 점수 상승과 다른 씬으로 연결이 되도록 코드를 작성했다. 각 스테이지별로 태그가 ‘Item’인 오브젝트와 충돌하면 점수가 상승하고, 태그가 ‘Finish’인 오브젝트와 플레이어가 충돌하게 되면 클리어 씬으로 전환되도록 설정했다.
+
+
+
+>CameraController(카메라 이동 코드)
+SerializeField를 이용해서 private으로 설정된 카메라 위치 지정 변수를 inspector창에서도 변경할 수 있도록 했다. 카메라가 플레이어를 따라갈 때 원하는 범위만큼만 보여줄 수 있도록 하기 위해서 카메라 좌표에 최솟값과 최댓값을 설정하고 player가 이동할때 카메라가 맵을 벗어나지 않도록 코드를 작성했다.
