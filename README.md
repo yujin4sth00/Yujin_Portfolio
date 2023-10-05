@@ -11,10 +11,16 @@ https://drive.google.com/file/d/1PVnHQbb5PAX6zqQiLjMx8KR-e33AUqAs/view?usp=drive
 |제작한 씬 합치고 전환과 오류 여부 확인, 보고서 및 발표자료 작성&준비|2023.06.18~2023.06.19|
 <br>
 발표 자료<br>
-![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/1f16160b-ca00-4572-8240-e567d049c147)
-![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/cd6a0f87-048c-48e2-80d6-e84286593087)
-![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/60898e7d-7bf1-4e4a-9749-c00a5499c82a)
-![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/e85bc3ec-0b55-4bd4-a44c-1c6bd518e895)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/8a602204-e229-4063-8eb8-7c6c4ed898c5)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/f6f8b2d1-8185-4bec-bc17-63b1fdf8ecba)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/9aa639c1-ecf8-4f5e-8db1-2cf3c96be3b6)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/1d2b31a3-9315-4009-b305-5ed5e105a2d1)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/81a4a3d8-b8ac-47b0-a215-8aa95de06314)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/99bc9b7f-7466-4d05-bd9f-fc4b57689378)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/8572d702-b10e-49d6-aab1-1eab76bd0fb2)
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/0aebfe9f-43e3-4c34-9e3d-abd00555af30)
+
+
 
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/9451b687-5071-4801-bf81-783f619f2b9b)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/e8dadb51-ac6a-40f2-bcec-93a0aa80e28a)
