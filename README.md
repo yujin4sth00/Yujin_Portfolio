@@ -10,8 +10,8 @@ https://drive.google.com/file/d/1PVnHQbb5PAX6zqQiLjMx8KR-e33AUqAs/view?usp=drive
 |담당한 부분들에 대한 팀원의 피드백 공유, 씬 전체적으로 수정하고 통합시키는 작업 진행|2023.06.12~2023.06.18|
 |제작한 씬 합치고 전환과 오류 여부 확인, 보고서 및 발표자료 작성&준비|2023.06.18~2023.06.19|
 <br>
-발표 자료
-![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/772599a8-2f75-4841-a353-5f1c13479737)
+발표 자료<br>
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/1f16160b-ca00-4572-8240-e567d049c147)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/cd6a0f87-048c-48e2-80d6-e84286593087)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/60898e7d-7bf1-4e4a-9749-c00a5499c82a)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/e85bc3ec-0b55-4bd4-a44c-1c6bd518e895)
