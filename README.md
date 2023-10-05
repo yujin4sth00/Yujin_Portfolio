@@ -2,14 +2,8 @@
 https://drive.google.com/file/d/1PVnHQbb5PAX6zqQiLjMx8KR-e33AUqAs/view?usp=drive_link <br>
 💻팀 프로젝트<br>
 💻제작기간<br>
-|세부내용|기간|
-|-----------|-------|
-|게임의 전체적인 컨셉 설정 및 레퍼런스 이미지 제작|2023.03.15~2023.04.12|
-|모티브가 된 게임을 통해 각 스테이지의 진행 방법 구성, 제작할 게임 파트 분배, 게임에 사용할 에셋 정하고 공유|2023.04.13~2023.05.10|
-|담당한 게임 파트의 계획서 작성 및 공유 후 각자 담당한 씬 제작 시작|2023.05.11~2023.06.11|
-|담당한 부분들에 대한 팀원의 피드백 공유, 씬 전체적으로 수정하고 통합시키는 작업 진행|2023.06.12~2023.06.18|
-|제작한 씬 합치고 전환과 오류 여부 확인, 보고서 및 발표자료 작성&준비|2023.06.18~2023.06.19|
-<br>
+![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/277c6816-13fa-4bef-aa18-551dae3c9447)
+
 발표 자료<br>
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/8a602204-e229-4063-8eb8-7c6c4ed898c5)
 ![image](https://github.com/yujin4sth00/GameDevelopProject/assets/115778958/f6f8b2d1-8185-4bec-bc17-63b1fdf8ecba)
