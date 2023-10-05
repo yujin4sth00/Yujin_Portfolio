@@ -1,5 +1,5 @@
 # Project3
-nodejs와 db연동 이용 사이트 구축
+nodejs와 db연동 이용 사이트 구축<br>
 💻개인 프로젝트<br>
 💻제작 기간: 2023.08.21
 ![image](https://github.com/yujin4sth00/Project3/assets/115778958/c95f8882-f32d-4817-abab-517b945c6d8e)
