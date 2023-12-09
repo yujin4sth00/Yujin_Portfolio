@@ -1,5 +1,5 @@
 # Java_2023
-💻개인 프로젝트<br>
+💻개인 프로젝트(Client 폴더)<br>
 💻제작기간: 2023.11.28 ~ 2023.12.09<br>
 ![image](https://github.com/yujin4sth00/Java_2023/assets/115778958/c48a239b-a006-4847-b833-f0f053a0eae0)
 ![image](https://github.com/yujin4sth00/Java_2023/assets/115778958/1baa41d8-499b-4954-b8a2-4c6e1bdf18e4)
